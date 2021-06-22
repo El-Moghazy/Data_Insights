@@ -4,6 +4,10 @@ This repo contains the into the data science file which is a file exploring the 
 Data: https://www.kaggle.com/c/kaggle-survey-2020/overview <br>
 Kaggle Notebook: https://www.kaggle.com/moghazy/into-the-data-science-career
 <br><br>
+
+## Motivation:
+There are many paths and ways to enter the Data Science filed. Those many ways and experts opinions overwhelm students that want to start their career as Data Scientists. The best way to to understand how a field develops is to look at the trends in the field using a large dataset with different paths and check the patterns in there.
+
 ## To be able to use this notebook you need to install:
 Python 3.x <br>
 Matplotlib <br>
