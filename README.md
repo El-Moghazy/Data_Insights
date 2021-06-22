@@ -23,3 +23,8 @@ Although it seems that people who uses Julia earn more than people who uses othe
 Also it was noted that 33 of the 71 people who has knowledge with Julia has Master's degree and and 21 had Phd, which shows why their salary is higher in average compared to other data scientists.
 
 There are many variables that needs to be investigated to reach a better understanding.
+
+
+## Some insights:
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E12AQFo_FftFnSdpQ/article-inline_image-shrink_1000_1488/0/1624369905050?e=1629936000&v=beta&t=Dcrhapg6w06U1wVxP6tLV_ed4lO7i2Npon_cfF16Ibk" alt="Italian Trulli">
