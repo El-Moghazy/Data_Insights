@@ -4,7 +4,7 @@ This repo contains the into the data science file which is a file exploring the 
 Data: https://www.kaggle.com/c/kaggle-survey-2020/overview <br>
 Kaggle Notebook: https://www.kaggle.com/moghazy/into-the-data-science-career
 <br><br>
-To be able to use this notebook you need to install:
+## To be able to use this notebook you need to install:
 Python 3.x <br>
 Matplotlib <br>
 Numpy <br>
@@ -12,7 +12,7 @@ Seaborn <br>
 Pandas <br>
 
 
-Results:
+## Results:
 
 Although it seems that people who uses Julia earn more than people who uses other languages like Python, but with further investigation I found that 95% of the people who use Julia also use Python
 
